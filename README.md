@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pravin Nawale</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center">A passionate .NET Developer</h3>
 
-- 🌱 I’m currently learning **Java,Hibernate,Spring and SpringBoot**
+- 🌱 I’m currently learning **C#,ASP.NET,MVC**
 
-- 📫 How to reach me **pravinnawale7070@gmail.com**
+- 📫 How to reach me **nawalepravin7070@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
